@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.one{
+    background-image: url(../images/1.jpg?sprite);
+    width:500px;
+    height:422px;
+}
+.two{
+    background-image: url(../images/2.jpg?sprite);
+    width:500px;
+    height:332px;
+}
+.three{
+    background-image: url(../images/3.jpg?sprite);
+    width:500px;
+    height:352px;
+}

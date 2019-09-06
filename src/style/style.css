@@ -1,0 +1,9 @@
+@import "./base.css";
+
+.avatar{
+    width:200px;
+    height:200px;
+    border:1px solid red;
+    background-image: url('../images/avatar.jpg');
+    background-size: contain;
+}
